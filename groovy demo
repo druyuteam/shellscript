@@ -1,0 +1,27 @@
+ ##https://vahan.parivahan.gov.in/vahanservice/vahan/ui/eapplication/form_eApplicatonHome.xhtml
+
+
+
+Install Groovy on Mac
+1. Update Java to at least Java 7 in the System Preferences Java Control Panel
+ 
+2. Type in Terminal /usr/libexec/java_home -V
+to get something like
+1.7.0_55, x86_64:	"Java SE 7"	/Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home
+ 
+3. Type in terminal export JAVA_HOME=`/usr/libexec/java_home -v 1.7.0_55, x86_64`
+ 
+4. Type in terminal java -version and make sure you have at least Java 7
+ 
+5. Install HomeBrew at http://brew.sh/
+ 
+6. Type in terminal brew install groovy
+ 
+7. In Atom Open Command Palette -> Install Packages Themes -> Type language-groovy and install
+ 
+Install Groovy on Windows
+ 
+1. Go here http://groovy-lang.org/download.html
+ 
+2. Click Windows Installer and click next a bunch of times until it is installed.
+*/
