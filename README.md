@@ -1,0 +1,2 @@
+# shellscript
+basic scriptin
